@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/shraiyanshdugar/travel-advisor',
-    visit: 'https://google.com',
+    visit: 'https://github.com/shraiyanshdugar/travel-advisor',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['JavaScript', 'React'],
     source: 'https://github.com/shraiyanshdugar/weather-app',
-    visit: 'https://google.com',
+    visit: 'https://github.com/shraiyanshdugar/weather-app',
     id: 1,
   },
   
@@ -24,7 +24,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['JavaScript', 'Express'],
     source: 'https://github.com/shraiyanshdugar/jwt-authenticator',
-    visit: 'https://google.com',
+    visit: 'https://github.com/shraiyanshdugar/jwt-authenticator',
     id: 2,
   },
   {
@@ -33,7 +33,7 @@ export const projects = [
     image: '/images/4.jpg',
     tags: ['React', 'Socket.io', 'Firebase'],
     source: 'https://github.com/shraiyanshdugar/chat-app',
-    visit: 'https://google.com',
+    visit: 'https://github.com/shraiyanshdugar/chat-app',
     id: 3,
   },
 ];
